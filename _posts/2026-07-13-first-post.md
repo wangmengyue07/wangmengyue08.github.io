@@ -1,11 +1,10 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2026-07-12-18T15:34:30-04:00
+title: "我的第一篇文章"
+date: 2026-07-13
 categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+  - 学习笔记
 ---
 
-hello world
+今天开始学习编程啦！
+
+这是我的第一篇博客文章，以后会把学习过程中遇到的问题和解决思路都记在这里。
