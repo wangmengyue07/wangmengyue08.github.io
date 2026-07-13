@@ -2,7 +2,7 @@
 
 这是我的个人博客，基于 GitHub Pages + Jekyll (Minimal Mistakes 主题) 搭建。
 
-[wangmengyue08.github.io](https://wangmengyue08.github.io)
+[wangmengyue07.github.io/wangmengyue08.github.io](https://wangmengyue07.github.io/wangmengyue08.github.io)
 
 ## 学习编程的路上……
 
